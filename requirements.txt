@@ -1,0 +1,14 @@
+certifi==2018.11.29
+chardet==3.0.4
+ddt==1.2.1
+Django==2.0.13
+et-xmlfile==1.0.1
+idna==2.8
+jdcal==1.4
+jsonpath==0.81
+openpyxl==2.6.1
+PyMySQL==0.9.3
+pytz==2019.1
+requests==2.21.0
+urllib3==1.24.1
+yagmail==0.11.215
