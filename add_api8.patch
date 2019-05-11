@@ -1,0 +1,155 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(date 1557588501000)
++++ .idea/workspace.xml	(revision )
+@@ -7,112 +7,7 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="a6a2e5c5-968e-4fa6-a875-c843f372e089" name="Default" comment="">
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API_7/data/cases.xlsx" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API_7/data/~$cases.xlsx" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new/ck_list/cases.xlsx" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/new/CK_list/cases.xlsx" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/new_1/CK_list/cases.xlsx" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/python_15.iml" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API_7/__init__.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API_7/common/__init__.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API_7/common/config.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API_7/common/contants.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API_7/common/context.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API_7/common/do_excel.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API_7/common/do_mysql.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API_7/common/http_request.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API_7/config/__init__.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API_7/config/global.conf" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API_7/config/online.conf" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API_7/config/test.conf" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API_7/data/__init__.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API_7/log/__init__.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API_7/reports/__init__.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API_7/study_eval_json.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API_7/study_pymysql.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API_7/study_re.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API_7/study_reflect.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API_7/study_requests.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API_7/study_session_request.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API_7/testcases/__init__.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API_7/testcases/test_add.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API_7/testcases/test_invest.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API_7/testcases/test_login.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API_7/testcases/test_recharge.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/API_7/testcases/test_register.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Easy_simple/Easy_simple.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Easy_simple/__init__.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Easy_simple/cfg配置文件/week5_6.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Easy_simple/cfg配置文件/week5_6_1.cfg" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Easy_simple/requests模块详细解释.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Easy_simple/unittest_01/chengxudaima.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Easy_simple/unittest_01/ck.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Easy_simple/unittest_01/run.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Easy_simple/zuoyee.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Easy_simple/接口测试基础知识.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Easy_simple/面试题.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WEEK/Django.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WEEK/OL.conf" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WEEK/__init__.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WEEK/case.log" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WEEK/dsad.text" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WEEK/week1.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WEEK/week2.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WEEK/week3.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WEEK/week4.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enail/a_01.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enail/a_02.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/enail/do_excel.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new/HQ.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new/__init__.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new/case.log" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new/ck_list/__init__.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new/config/__init__.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new/config/config.conf" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new/config/os_path.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new/excel_rw.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new/formula_re.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new/logs/__init__.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new/logs/case.log" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new/logs/logger.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new/mysql_rw.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new/requests_gp.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new/run.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/newnew/__init__.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/newnew/public_20180914_mail.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/__init__.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/new/CK_list/__init__.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/new/Requests_Processing.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/new/__init__.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/new/config/OL.conf" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/new/config/__init__.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/new/config/config.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/new/config/test.conf" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/new/excel_rz.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/new/mysql_r.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/new/os_path.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/new/requests_GP.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/new/run.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/new_1/CK_list/__init__.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/new_1/Requests_Processing.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/new_1/Requests_Processing1.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/new_1/__init__.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/new_1/config/OL.conf" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/new_1/config/__init__.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/new_1/config/config.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/new_1/config/test.conf" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/new_1/config_rw.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/new_1/excel_rz.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/new_1/os_path.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/new_1/requests_GP.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old/new_1/run.py" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/requirements.txt" />
+-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcg.py" />
++      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+     </list>
+     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+     <option name="TRACKING_ENABLED" value="true" />
+@@ -171,7 +66,7 @@
+         <entry file="file://$PROJECT_DIR$/WEEK/week4.py">
+           <provider selected="true" editor-type-id="text-editor">
+             <state relative-caret-position="224">
+-              <caret line="52" column="21" lean-forward="true" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
++              <caret line="52" column="18" lean-forward="true" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+               <folding />
+             </state>
+           </provider>
+@@ -582,7 +477,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1557588182879</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="add api8">
++      <created>1557588501487</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1557588501487</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="TestHistory">
+@@ -1358,7 +1260,7 @@
+     <entry file="file://$PROJECT_DIR$/WEEK/week4.py">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="224">
+-          <caret line="52" column="21" lean-forward="true" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
++          <caret line="52" column="18" lean-forward="true" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+           <folding />
+         </state>
+       </provider>
