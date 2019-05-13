@@ -1,13 +1,12 @@
 import requests
-from requests import request
 from configparser import ConfigParser
-import json
+from new.config import os_path
 
 class Req_PG:
 
     def __init__(self):
         con = ConfigParser()
-        con.read("config/config.conf", encoding="utf-8")
+        con.read(os_path.config_new, encoding="utf-8")
         self.url_p=con.get("url_p", "url")
 
     def req_open(self):
