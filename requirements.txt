@@ -10,5 +10,5 @@ openpyxl==2.6.1
 PyMySQL==0.9.3
 pytz==2019.1
 requests==2.21.0
-urllib3==1.24.1
+urllib3==1.24.2
 yagmail==0.11.215
